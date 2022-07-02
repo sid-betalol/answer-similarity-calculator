@@ -1,4 +1,4 @@
-# answer-similarity-calculator-as-autograder
+# answer-similarity-calculator-for-autograder
 ## CH5019 MFDS Course Project
 
 For an in-depth description, check out the [report](https://github.com/sid-betalol/answer-similarity-calculator/blob/main/Report.pdf).
