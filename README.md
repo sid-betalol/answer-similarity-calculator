@@ -1,7 +1,7 @@
 # answer-similarity-calculator-as-autograder
 ## CH5019 MFDS Course Project
 
-For an in-depth description, check out the report.
+For an in-depth description, check out the [report](https://github.com/sid-betalol/answer-similarity-calculator/blob/main/Report.pdf).
 
 General Guidelines:
 - It is recommended that you run the code on Google Colab [(here)](https://colab.research.google.com/drive/1C1r7G01RqFne-9XDtbY95K9ud6xiKKM8?usp=sharing). You might face installation issues otherwise.
